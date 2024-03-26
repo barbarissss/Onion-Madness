@@ -9,9 +9,9 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/barbarissss/Onion-Madness"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT-License",
 	"icon": "assets/onion-madness/icon.png",
 	"environment": "*",
 	"entrypoints": {
