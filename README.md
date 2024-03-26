@@ -1,5 +1,5 @@
 ## Onion Madness
-**Onion Madness** is a mod that adds various onion items. 
+**Onion Madness** is a Minecraft mod that adds various onion items. 
 
 At the moment, the mod has only added **onion rings**, which are food from nether plants.
 
