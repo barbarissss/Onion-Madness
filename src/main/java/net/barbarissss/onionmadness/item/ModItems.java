@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems
 {
-    public static final Item ONION_RING = registerItem("onion_ring", new Item(new FabricItemSettings()));
+    public static final Item ONION_RING = registerItem("onion_ring", new Item(new FabricItemSettings().food(ModFoodComponents.ONION_RING)));
 
     private static void addItemsToItemGroup(FabricItemGroupEntries entries)
     {

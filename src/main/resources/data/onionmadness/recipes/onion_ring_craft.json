@@ -1,0 +1,21 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category" : "misc",
+  "pattern" : [
+    "XOX",
+    "O O",
+    "XOX"
+  ],
+  "key" : {
+    "O" : {
+      "item" : "minecraft:twisting_vines"
+    },
+    "X" : {
+      "item" : "minecraft:glowstone_dust"
+    }
+  },
+  "result" : {
+    "item" : "onion-madness:onion_ring",
+    "count" : 2
+  }
+}
