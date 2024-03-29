@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/barbarissss/Onion-Madness"
 	},
-	"license": "MIT-License",
+	"license": "CC0-1.0",
 	"icon": "assets/onion-madness/icon.png",
 	"environment": "*",
 	"entrypoints": {
