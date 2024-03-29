@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "onion-madness:block/onion_ring_block"
+    }
+  }
+}

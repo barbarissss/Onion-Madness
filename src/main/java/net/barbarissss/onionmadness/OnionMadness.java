@@ -1,5 +1,6 @@
 package net.barbarissss.onionmadness;
 
+import net.barbarissss.onionmadness.block.ModBlock;
 import net.barbarissss.onionmadness.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,5 +14,6 @@ public class OnionMadness implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlock.registerModBlocks();
 	}
 }

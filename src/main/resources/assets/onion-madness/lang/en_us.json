@@ -1,3 +1,5 @@
 {
-  "item.onion-madness.onion_ring" : "Onion Ring"
+  "item.onion-madness.onion_ring" : "Onion Ring",
+
+  "block.onion-madness.onion_ring_block" : "Onion Ring Block"
 }

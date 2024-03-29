@@ -1,0 +1,6 @@
+{
+  "parent" : "block/cube_all",
+  "textures" : {
+    "all" : "onion-madness:block/onion_ring_block"
+  }
+}
